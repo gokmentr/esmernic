@@ -1,0 +1,2 @@
+# esmernic
+Yeni basladim
